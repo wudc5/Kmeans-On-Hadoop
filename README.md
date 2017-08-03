@@ -1,4 +1,5 @@
 1.首先在hdfs上创建以下目录：/user/hadoop/Kmeans/input、/user/hadoop/Kmeans/out
+
 2.把oldCenters.data上传到hdfs的/user/hadoop/Kmeans/目录下
 
 运行命令及参数：
